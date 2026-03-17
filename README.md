@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am a web developer focused on building modern, responsive, and scalable web applications. I specialize in frontend development, database integration, AI tools, and clean UI design. My projects are production-ready and deployed on live platforms.
+I am a dedicated software engineer with a profound love for building highly scalable web applications and breathtaking user interfaces. My journey involves mastering the art of seamless user experiences backed by robust, secure architectures.
+
+Whether it's designing a pixel-perfect front-end or structuring a complex backend database, I approach every project with a startup mindset: fast, efficient, and beautifully executed.
 
 ---
 
