@@ -11,9 +11,7 @@ Whether it's designing a pixel-perfect front-end or structuring a complex backen
 ## Live Portfolio
 
 **Portfolio Website:**  
-https://ma-developer.vercel.app
 https://muhammad-ayan-official.vercel.app
-
 ---
 
 ## Projects
@@ -81,5 +79,5 @@ https://mashallah-boutique.ct.ws/
 
 ## Contact
 
-Portfolio: https://ma-developer.vercel.app  
+Portfolio: https://muhammad-ayan-official.vercel.app 
 GitHub: https://github.com/ayan123-afk
