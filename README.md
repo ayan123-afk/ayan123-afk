@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Tools+Engineer;Modern+Web+Architect;Clean+UI%2FUX+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Builder;Modern+Web+Architect;Clean+UI%2FUX+Specialist" />
 </p>
 
 ---
@@ -88,8 +88,7 @@ https://mashallah-boutique.ct.ws/
 ## Goals
 
 - Build advanced full-stack applications  
-- Develop AI-powered systems  
-- Create scalable web platforms  
+- Develop scalable web platforms  
 - Contribute to modern development ecosystems  
 
 ---
