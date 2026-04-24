@@ -2,25 +2,25 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Application+Builder;Modern+Web+Architect;Clean+UI%2FUX+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Web+Application+Builder;Modern+Web+Architect;Clean+UI%2FUX+Specialist" />
 </p>
 
 ---
 
 ## About Me
 
-I am a dedicated software engineer with a strong focus on building scalable web applications and high-quality user interfaces. My work combines performance, security, and design to deliver production-level digital solutions.
+I am a dedicated software engineer focused on building scalable web applications and refined user interfaces. My work blends performance, security, and modern design to deliver production-ready digital solutions.
 
-From pixel-perfect front-end design to structured backend systems, I approach every project with efficiency, precision, and a modern development mindset.
+I approach development with clarity and structure — ensuring every project is efficient, maintainable, and visually strong.
 
 ---
 
-## Live Portfolio
+## Portfolio
 
 https://muhammad-ayan-official.vercel.app
 
@@ -29,16 +29,26 @@ https://muhammad-ayan-official.vercel.app
 ## Projects
 
 ### Hexa Chat  
-A real-time chat application with authentication, user system, and database integration.  
-https://hexa-chat-chating-application.vercel.app
+Real-time chat application with authentication, user system, and database integration.  
+https://hexa-chat-chating-application.vercel.app  
+
+---
 
 ### Skill Craft  
-An interactive learning platform designed with modern UI and responsive layout.  
-https://skill-craft-learning-applicaton.vercel.app
+Interactive learning platform with modern UI and fully responsive layout.  
+https://skill-craft-learning-applicaton.vercel.app  
+
+---
 
 ### Mashallah Boutique  
-A business website for product showcasing with a clean and responsive design.  
-https://mashallah-boutique.ct.ws/
+Business website designed for clean product presentation and responsiveness.  
+https://mashallah-boutique.ct.ws/  
+
+---
+
+### Shandar VIP Shoes  
+E-commerce style website focused on product showcase with a modern layout and smooth UI.  
+https://shandar-vip-shoes.vercel.app/  
 
 ---
 
@@ -66,7 +76,7 @@ https://mashallah-boutique.ct.ws/
 
 ---
 
-## Activity Graph
+## Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan123-afk&theme=github-dark&hide_border=true" />
@@ -74,14 +84,14 @@ https://mashallah-boutique.ct.ws/
 
 ---
 
-## Development Approach
+## Development Principles
 
-- Clean and structured code  
-- Mobile-first design  
-- Scalable architecture  
+- Clean, readable, and maintainable code  
+- Mobile-first responsive design  
+- Scalable and modular architecture  
 - Secure API handling  
-- Modern UI/UX principles  
-- Production-level deployment  
+- Modern UI/UX standards  
+- Deployment-ready production builds  
 
 ---
 
@@ -103,7 +113,7 @@ https://github.com/ayan123-afk
 
 ---
 
-<!-- Footer Animation -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66C2&height=120&section=footer"/>
 </p>
