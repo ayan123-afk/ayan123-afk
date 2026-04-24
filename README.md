@@ -42,7 +42,7 @@ https://skill-craft-learning-applicaton.vercel.app
 
 ### Mashallah Boutique  
 Business website designed for clean product presentation and responsiveness.  
-https://mashallah-boutique.ct.ws/  
+https://mashallah-boutique-center.vercel.app/  
 
 ---
 
