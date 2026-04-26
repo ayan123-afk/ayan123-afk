@@ -1,27 +1,23 @@
-<h1 align="center">Muhammad Ayan — MA Developers</h1>
+<h1 align="center">Muhammad Ayan</h1>
+<h3 align="center">Full Stack Developer • MA Developers</h3>
 
-<!-- Animated Header -->
+<!-- Gradient Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:000000,100:1a1a1a&height=220&section=header&text=Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Glass Style Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Web+Application+Builder;Modern+UI%2FUX+Designer;AI+Tools+Developer;Clean+Code+Specialist" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:000000&height=180&section=header&text=Building%20Modern%20Web%20Experiences&fontSize=30&fontColor=ffffff"/>
 </p>
 
 ---
 
-## About Me
+## Profile
 
-I am a focused full stack developer who builds scalable, high-performance web applications with clean architecture and modern design.
+Focused full stack developer building modern, scalable, and high-performance web applications.
 
-I combine functionality with aesthetics, ensuring every product is responsive, efficient, and production-ready.
-
-- Name: Muhammad Ayan  
-- Age: 16  
-- Country: Pakistan  
-- Focus: Web Development, UI/UX, AI Tools  
+Strong emphasis on structure, clean UI, and production-ready systems.
 
 ---
 
@@ -29,115 +25,100 @@ I combine functionality with aesthetics, ensuring every product is responsive, e
 
 <p align="center">
   <a href="https://muhammad-ayan-official.vercel.app">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Featured Projects
+## Selected Work
+
+<table>
+<tr>
+<td width="50%">
 
 ### Hexa Chat  
-Real-time chat application with authentication and database integration  
+Real-time chat application with authentication and database  
 https://hexa-chat-chating-application.vercel.app  
 
----
+</td>
+<td width="50%">
 
 ### Skill Craft  
 Interactive learning platform with responsive UI  
 https://skill-craft-learning-applicaton.vercel.app  
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### Mashallah Boutique  
-Business website with clean product presentation  
+Clean business website with product-focused layout  
 https://mashallah-boutique-center.vercel.app/  
 
----
+</td>
+<td width="50%">
 
 ### Shandar VIP Shoes  
-Modern e-commerce style product showcase  
+Modern product showcase with smooth UI  
 https://shandar-vip-shoes.vercel.app/  
 
+</td>
+</tr>
+</table>
+
 ---
 
-## Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,supabase,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,supabase,git,github,vercel" />
 </p>
 
 ---
 
-## Tools & Workflow
+## GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ayan123-afk&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan123-afk&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## GitHub Analytics
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayan123-afk&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan123-afk&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan123-afk&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan123-afk&theme=github-dark"/>
 </p>
 
 ---
 
-## Contribution Graph
+## Principles
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan123-afk&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Development Principles
-
-- Clean and maintainable code  
-- Mobile-first responsive design  
-- Scalable architecture  
-- Secure API handling  
-- Performance optimization  
-- Modern UI/UX standards  
-
----
-
-## Current Goals
-
-- Build advanced full-stack applications  
-- Develop scalable platforms  
-- Improve system design skills  
-- Expand into AI-powered tools  
+- Clean architecture  
+- Scalable systems  
+- Performance-first approach  
+- Modern UI/UX  
+- Production-ready code  
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="https://muhammad-ayan-official.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
-  </a>
   <a href="https://github.com/ayan123-afk">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
+  </a>
+  <a href="https://muhammad-ayan-official.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66C2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
