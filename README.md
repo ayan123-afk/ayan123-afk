@@ -1,108 +1,143 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Muhammad+Ayan;MA+Developers" alt="Typing SVG" />
-</h1>
+<h1 align="center">Muhammad Ayan — MA Developers</h1>
 
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=220&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:000000,100:1a1a1a&height=220&section=header&text=Full%20Stack%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=26&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Web+Application+Builder;Modern+UI%2FUX+Designer;AI+Tools+Developer;Clean+Code+Specialist" />
+</p>
+
+---
+
+## About Me
+
+I am a focused full stack developer who builds scalable, high-performance web applications with clean architecture and modern design.
+
+I combine functionality with aesthetics, ensuring every product is responsive, efficient, and production-ready.
+
+- Name: Muhammad Ayan  
+- Age: 16  
+- Country: Pakistan  
+- Focus: Web Development, UI/UX, AI Tools  
+
+---
+
+## Portfolio
 
 <p align="center">
   <a href="https://muhammad-ayan-official.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Modern+Web+Architect;Clean+UI%2FUX+Specialist;React+%26+Firebase+Expert" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## Featured Projects
+
+### Hexa Chat  
+Real-time chat application with authentication and database integration  
+https://hexa-chat-chating-application.vercel.app  
+
+---
+
+### Skill Craft  
+Interactive learning platform with responsive UI  
+https://skill-craft-learning-applicaton.vercel.app  
+
+---
+
+### Mashallah Boutique  
+Business website with clean product presentation  
+https://mashallah-boutique-center.vercel.app/  
+
+---
+
+### Shandar VIP Shoes  
+Modern e-commerce style product showcase  
+https://shandar-vip-shoes.vercel.app/  
+
+---
+
+## Tech Stack
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,supabase,git,github,vercel,netlify" />
+</p>
+
+---
+
+## Tools & Workflow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayan123-afk&show_icons=true&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayan123-afk&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan123-afk&theme=github_dark"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayan123-afk&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Development Principles
+
+- Clean and maintainable code  
+- Mobile-first responsive design  
+- Scalable architecture  
+- Secure API handling  
+- Performance optimization  
+- Modern UI/UX standards  
+
+---
+
+## Current Goals
+
+- Build advanced full-stack applications  
+- Develop scalable platforms  
+- Improve system design skills  
+- Expand into AI-powered tools  
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://muhammad-ayan-official.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
+  </a>
   <a href="https://github.com/ayan123-afk">
-    <img src="https://img.shields.io/github/followers/ayan123-afk?label=Follow&style=for-the-badge&logo=github&color=0A66C2&logoColor=ffffff" />
-  </a>
-  <a href="https://muhammad-ayan-official.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
-
-I am a dedicated software engineer focused on building scalable web applications and refined user interfaces. My work blends performance, security, and modern design to deliver production-ready digital solutions.
-
-- 🔭 I’m currently working on **Advanced Full-Stack Ecosystems**
-- ⚡ I approach development with **Clarity and Structure**
-- 🎨 Passionate about **Pixel Perfect UI/UX**
-
----
-
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌌 Hexa Chat</h4>
-      <p>Real-time chat application with authentication, user system, and database integration.</p>
-      <a href="https://hexa-chat-chating-application.vercel.app"><b>Live Demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Skill Craft</h4>
-      <p>Interactive learning platform with modern UI and fully responsive layout.</p>
-      <a href="https://skill-craft-learning-applicaton.vercel.app"><b>Live Demo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛍️ Mashallah Boutique</h4>
-      <p>Business website designed for clean product presentation and responsiveness.</p>
-      <a href="https://mashallah-boutique-center.vercel.app/"><b>Live Demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>👟 Shandar VIP Shoes</h4>
-      <p>E-commerce style website focused on product showcase with a modern layout.</p>
-      <a href="https://shandar-vip-shoes.vercel.app/"><b>Live Demo →</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,supabase,git,github,vercel,tailwind,postman,vscode&perline=6" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayan123-afk&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan123-afk&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayan123-afk&theme=tokyonight&area=true&hide_border=false" />
-</p>
-
----
-
-## 🧠 Development Principles
-
-- ✅ **Clean Code:** Readable and maintainable architecture.
-- 📱 **Mobile-First:** Fully responsive design for all screens.
-- 🔒 **Security:** Secure API handling and data protection.
-- 🚀 **Performance:** Optimized production-ready builds.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://github.com/ayan123-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ayan123-afk" height="30" width="40" /></a>
-<a href="https://muhammad-ayan-official.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
-</p>
-
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66C2&height=120&section=footer"/>
 </p>
